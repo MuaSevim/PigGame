@@ -53,7 +53,7 @@ btnRoll.addEventListener('click', () => {
 
     //Store & Display
     diceEl.classList.remove('hidden');
-    diceEl.src = `dice-${dice}.png`;
+    diceEl.src = `./img/dice-${dice}.png`;
 
     //Actions, depending on dice's number
     if (dice !== 1) {

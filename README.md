@@ -4,4 +4,5 @@ Creating the famous pig game using JavaScript
 
 ## Preview of the Game
 
-![Test image](/img/dice-1.png)
+![Preview: Playing the game](/img/preview/preview0.png)
+![Preview: Winning the game](/img/preview/preview1.png)
